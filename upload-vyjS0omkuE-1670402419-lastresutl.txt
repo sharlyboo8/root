@@ -1,0 +1,295 @@
+Microsoft Windows [°æ±¾ 10.0.19042.1586]
+(c) Microsoft Corporation¡£±£ÁôËùÓÐÈ¨Àû¡£
+
+d:\lq\http-0328\zmm_http_transfer_v3.2\zmm_http_dll>dir
+ Çý¶¯Æ÷ D ÖÐµÄ¾íÊÇ bb
+ ¾íµÄÐòÁÐºÅÊÇ A06F-3FCD
+
+ d:\lq\http-0328\zmm_http_transfer_v3.2\zmm_http_dll µÄÄ¿Â¼
+
+2022/03/29  16:03    <DIR>          .
+2022/03/29  16:03    <DIR>          ..
+2022/03/03  16:53             1,219 ClassDiagram1.cd
+2022/03/29  15:44             1,164 config.h
+2022/03/18  11:33             2,468 dllmain.cpp
+2022/03/18  07:58             6,657 HTTPhandle.cpp
+2021/09/14  16:52               540 HTTPhandle.h
+2021/09/14  16:51             2,736 log.cpp
+2021/09/07  11:23               241 log.h
+2021/09/14  16:57            41,201 MemoryModule.c
+2020/07/06  10:12             4,919 MemoryModule.h
+2021/09/14  16:53            10,210 proxy.cpp
+2021/09/14  16:29             1,785 ReadMe.txt
+2021/09/14  16:29               299 stdafx.cpp
+2021/09/14  16:29               419 stdafx.h
+2021/09/14  16:29             1,428 targetver.h
+2022/03/23  11:21            11,123 TCPConnect.cpp
+2022/03/15  16:40               943 TCPConnect.h
+2020/09/15  15:25                97 trans.cpp
+2022/03/14  16:53             3,629 trans.h
+2022/03/28  11:51    <DIR>          x64
+2022/03/28  11:51    <DIR>          zlib
+2020/09/16  14:34             2,514 zlib_compress.cpp
+2020/09/15  10:29             1,131 zlib_compress.h
+2022/03/29  16:03            45,940 zmm.cpp
+2022/03/01  10:43               870 zmm.h
+2021/09/14  16:29               110 zmm_http_dll.cpp
+2022/03/28  11:28             9,865 zmm_http_dll.vcproj
+2022/03/29  16:12             2,666 zmm_http_dll.vcproj.DESK-20201226KH.Administrator.user
+2022/03/28  11:44             2,632 zmm_http_dll.vcproj.WIN-QRQ91A292I0.John.user
+              26 ¸öÎÄ¼þ        156,806 ×Ö½Ú
+               4 ¸öÄ¿Â¼ 3,004,338,503,680 ¿ÉÓÃ×Ö½Ú
+
+d:\lq\http-0328\zmm_http_transfer_v3.2\zmm_http_dll>ver
+
+Microsoft Windows [°æ±¾ 10.0.19042.1586]
+
+d:\lq\http-0328\zmm_http_transfer_v3.2\zmm_http_dll>Microsoft Windows [°æ±¾ 10.0.19042.1586]
+(c) Microsoft Corporation¡£±£ÁôËùÓÐÈ¨Àû¡£
+
+d:\lq\BAK\zmm_1014\zmm_https_socket_v1\zmm_socket>Microsoft Windows [°æ±¾ 10.0.19042.1586]
+(c) Microsoft Corporation¡£±£ÁôËùÓÐÈ¨Àû¡£
+
+d:\lq\BAK\zmm_1014\zmm_https_socket_v1\zmm_socket>Microsoft Windows [°æ±Microsoft Windows [°æ±Microsoft Windows [°æ±!whoami
+'!wMicrosoft Windows [°æ±Microsoft Windows [°æ±Microsoft Windows [°æ±dir
+ Çý¶¯Æ÷ D ÖÐµÄ¾íÊÇ bb
+ ¾íµÄÐòÁÐºÅÊÇ A06F-3FCD
+
+ d:\old\compress\thirdp4\thirdexe µÄÄ¿Â¼
+
+2022/04/24  15:03    <DIR>          .
+2022/04/24  15:03    <DIR>          ..
+2022/04/02  17:35    <DIR>          Debug
+2020/06/13  23:01           680,554 detours.lib
+2020/03/24  11:03             2,175 ReadMe.txt
+2022/04/22  18:03    <DIR>          Release
+2020/07/15  08:55               626 resource.h
+2003/07/23  17:52            23,558 small.ico
+2020/03/24  11:03               295 stdafx.cpp
+2020/06/19  10:24               604 stdafx.h
+2020/06/13  23:01            54,768 syelog.lib
+2020/03/24  11:03             1,428 targetver.h
+2021/11/11  16:30             1,320 thirdexe.aps
+2022/04/11  15:56            14,141 thirdexe.cpp
+2020/03/24  11:03                39 thirdexe.h
+2003/07/23  17:52            23,558 thirdexe.ico
+2020/07/15  08:55             1,699 thirdexe.rc
+2022/03/16  08:53            95,306 thirdexe.vcproj
+2022/04/25  16:38            18,265 thirdexe.vcproj.S.Administrator.user
+2022/03/16  08:53    <DIR>          x64
+              15 ¸öÎÄ¼þ        918Microsoft Windows [°æ±set
+ALLUSERSPROFILE=C:\ProgramData
+APPDATA=C:\Users\Administrator\AppData\Roaming
+CommonProgramFiles=C:\Program Files\Common Files
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+CommonProgramW6432=C:\Program Files\Common Files
+COMPLUS_NoGuiFromShim=1
+COMPUTERNAME=S
+ComSpec=C:\Windows\system32\cmd.exe
+DriverData=C:\Windows\System32\Drivers\DriverData
+FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+FPS_BROWSER_USER_PROFILE_STRING=Default
+frameworkdir=c:\windows\microsoft.net\framework\
+frameworksdkdir=
+HOMEDRIVE=C:
+HOMEPATH=\Users\Administrator
+include=D:\Program Files (x86)\Microsoft Visual Studio\VC98\atl\include;D:\Program Files (x86)\Microsoft Visual Studio\VC98\mfc\include;D:\Program Files (x86)\Microsoft Visual Studio\VC98\include
+lib=D:\Program Files (x86)\Microsoft Visual Studio\VC98\mfc\lib;D:\Program Files (x86)\Microsoft Visual Studio\VC98\lib
+LOCALAPPDATA=C:\Users\Administrator\AppData\Local
+LOGONSERVER=\\S
+MSDevDir=D:\Program Files (x86)\Microsoft Visual Studio\Common\MSDev98
+MsVCDir=d:\program files (x86)\microsoft visual studio 9.0\
+NUMBER_OF_PROCESSORS=64
+OneDrive=C:\Users\Administrator\OneDrive
+OS=Windows_NT
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PROCESSOR_ARCHITECTURE=AMD64
+PROCESSOR_IDENTIFIER=AMD64 Family 23 Model 49 Stepping 0, AuthenticAMD
+PROCESSOR_LEVEL=23
+PROCESSOR_REVISION=3100
+ProgramData=C:\ProgramData
+ProgramFiles=C:\Program Files
+ProgramFiles(x86)=C:\Program Files (x86)
+ProgramW6432=C:\Program Files
+PROMPT=$P$G
+PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC=C:\Users\Public
+SESSIONNAME=Console
+SystemDrive=C:
+SystemRoot=C:\Windows
+TEMP=C:\Users\Administrator\AppData\Local\Temp
+TMP=C:\Users\Administrator\AppData\Local\Temp
+USERDOMAIN=S
+USERDOMAIN_ROAMINGPROFILE=S
+USERNAME=Administrator
+USERPROFILE=C:\Users\Administrator
+VCInstallDir=d:\program files (x86)\microsoft visual studio 9.0\vc\
+VisualStudioDir=C:\Users\Administrator\Documents\Visual Studio 2008
+VS110COMNTOOLS=C:\Program Files (x86)\Microsoft Visual Studio 11.0\Common7\Tools\
+VS120COMNTOOLS=D:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\Tools\
+VS140COMNTOOLS=D:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\
+VS90COMNTOOLS=D:\Program Files (x86)\Microsoft Visual Studio 9.0\Common7\Tools\
+VSInstallDir=d:\program files (x86)\microsoft visual studio 9.0\
+WecVersionForRosebud.3F6C=2
+windir=C:\Windows
+_ACP_ATLPROV=D:\Program Files (x86)\Microsoft Visual Studio 9.0\VC\Bin\ATLProv.dll
+_ACP_INCLUDE=D:\Program Files (x86)\Microsoft Visual Studio 9.0\VC\include;D:\Program Files (x86)\Microsoft Visual Studio 9.0\VC\atlmfc\include;C:\Program Files\Microsoft SDKs\Windows\v6.0A\\include;C:\Program Files\Microsoft SDKs\Windows\v6.0A\include;d:\Program Files (x86)\Codejock Software\MFC\Xtreme ToolkitPro v19.1.0\Source;D:\tools\DXSDK\Include;D:\tools\Microsoft SDK\include;D:\tools\WINDDK\3790\inc\wnet;D:\Program Files (x86)\Microsoft Visual Studio 9.0\VC\DIA SDK\include;D:\Program Files (x86)\Microsoft Visual Studio 9.0\DIA SDK\include;C:\Program Files (x86)\Windows Kits\8.1\Include\um;C:\Program Files (x86)\Windows Phone Kits\8.1\Include;C:\Program Files (x86)\VMware\VMware VIX;D:\tools\WINDDK\3790\inc\ddk\wnet;D:\tools\reactos-master\sdk\lib\pseh\include;D:\tools\reactos-master\sdk\include\ndk;D:\tools\reactos-master\sdk\include\psdk;D:\tools\reactos-master\sdk\include;D:\tools\reactos-master\sdk\include\reactos;D:\tools\reactos-master\sdk\lib\conutils;D:\tools\reactos-master\sdk\lib;D:\tools\reactos-master\sdk\include\reactos\drivers\ndisuio
+_ACP_LIB=D:\Program Files (x86)\Microsoft Visual Studio 9.0\VC\lib\amd64;D:\Program Files (x86)\Microsoft Visual Studio 9.0\VC\atlmfc\lib\amd64;C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\x64;d:\Program Files (x86)\Codejock Software\MFC\Xtreme ToolkitPro v19.1.0\Lib\vc90x64;D:\tools\DXSDK\Lib;D:\tools\Microsoft SDK\Lib;D:\Program Files (x86)\Microsoft Visual Studio 9.0\VC\DIA SDK\lib;D:\Program Files (x86)\Microsoft Visual Studio 9.0\DIA SD_ACP_PATH=D:\Program Files (x86)\Microsoft Visual Studio 9.0\VC\bin\x86_amd64;D:\Program Files (x86)\Microsoft Visual Studio 9.0\VC\bin;C:\Program Files\Microsoft SDKs\Windows\v6.0A\\bin;D:\Program Files (x86)\Microsoft Visual Studio 9.0\Common7\Tools\bin;D:\Program Files (x86)\Microsoft Visual Studio 9.0\Common7\tools;D:\Program Files (x86)\Microsoft Visual Studio 9.0\Common7\ide;C:\Program Files (x86)\HTML Help Workshop;C:\Program Files\Microsoft SDKs\Windows\v6.0A\bin;C:\Program Files\Microsoft SDKs\Windows\v6.0A\lib\win64;C:\Windows\Microsoft.NET\Framework\v2.0.50727;D:\Program Files (x86)\Microsoft Visual Studio 9.0\Team Tools\Static Analysis Tools\FxCop\;C:\Program Files\Microsoft\jdk-11.0.12.7-hotspot\bin;d:\Program Files (x86)\Codejock Software\MFC\Xtreme ToolkitPro v19.1.0\Bin\vc140;d:\Program Files (x86)\Codejock Software\MFC\Xtreme ToolkitPro v19.1.0\Bin\vc120;d:\Program Files (x86)\Codejock Software\MFC\Xtreme ToolkitPro v19.1.0\Bin\vc90;d:\Program Files (x86)\Codejock Software\MFC\Xtreme ToolkitPro v19.1.0\Bin\vc60;D:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Microsoft SQL Server\90\Tools\binn\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SDKs\TypeScript\1.0\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Users\Administrator\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;D:\Program Files\TortoiseSVN\bin;C:\Program Files\dotnet\;c:\mingw\bin;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Git\cmd;C:\Users\Administrator\AppData\Local\Programs\Python\Python35\Scripts\;C:\Users\Administrator\AppData\Local\Programs\Python\Python35\;D:\Program Files (x86)\Microsoft Visual Studio\Common\Tools\WinNT;D:\Program Files (x86)\Microsoft Visual Studio\Common\MSDev98\Bin;D:\Program Files (x86)\Microsoft Visual Studio\Common\Tools;D:\Program Files (x86)\Microsoft Visual Studio\VC98\bin;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Users\Administrator\.dotnet\tools;C:\Program Files (x86)\SSH Communications Security\SSH Secure Shell;d:\Users\Administrator\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files (x86)\IDM Computer Solutions\UltraCompare\;D:\tools\WINDDK\3790\bin;D:\tools\Microsoft SDK\Bin;D:\tools\DXSDK\Bin;C:\Program Files (x86)\VMware\VMware VIX
+PATH=C:\Program Files\Microsoft\jdk-11.0.12.7-hotspot\bin;d:\Program Files (x86)\Codejock Software\MFC\Xtreme ToolkitPro v19.1.0\Bin\vc140;d:\Program Files (x86)\Codejock Software\MFC\Xtreme ToolkitPro v19.1.0\Bin\vc120;d:\Program Files (x86)\Codejock Software\MFC\Xtreme ToolkitPro v19.1.0\Bin\vc90;d:\Program Files (x86)\Codejock Software\MFC\Xtreme ToolkitPro v19.1.0\Bin\vc60;D:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Microsoft SQL Server\90\Tools\binn\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SDKs\TypeScript\1.0\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Users\Administrator\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;D:\Program Files\TortoiseSVN\bin;C:\Program Files\dotnet\;c:\mingw\bin;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Git\cmd;C:\Users\Administrator\AppData\Local\Programs\Python\Python35\Scripts\;C:\Users\Administrator\AppData\Local\Programs\Python\Python35\;D:\Program Files (x86)\Microsoft Visual Studio\Common\Tools\WinNT;D:\Program Files (x86)\Microsoft Visual Studio\Common\MSDev98\Bin;D:\Program Files (x86)\Microsoft Visual Studio\Common\Tools;D:\Program Files (x86)\Microsoft Visual Studio\VC98\bin;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Users\Administrator\.dotnet\tools;C:\Program Files (x86)\SSH Communications Security\SSH Secure Shell;d:\Users\Administrator\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files (x86)\IDM MicrMicrosoft Windows [°æ±¾ Microsoft Windows [°æ±dir
+ Çý¶¯Æ÷ D ÖÐµÄ¾íÊÇ bb
+ ¾íµÄÐòÁÐºÅÊÇ A06F-3FCD
+
+ d:\old\compress\thirdp4\thirdexe µÄÄ¿Â¼
+
+2022/05/18  15:06    <DIR>          .
+2022/05/18  15:06    <DIR>          ..
+2022/05/13  17:43    <DIR>          Debug
+2020/06/13  23:01           680,554 detours.lib
+2020/03/24  11:03             2,175 ReadMe.txt
+2022/05/13  17:43    <DIR>          Release
+2020/07/15  08:55               626 resource.h
+2003/07/23  17:52            23,558 small.ico
+2020/03/24  11:03               295 stdafx.cpp
+2020/06/19  10:24               604 stdafx.h
+2020/06/13  23:01            54,768 syelog.lib
+2020/03/24  11:03             1,428 targetver.h
+2021/11/11  16:30             1,320 thirdexe.aps
+2022/04/11  15:56            14,141 thirdexe.cpp
+2020/03/24  11:03                39 thirdexe.h
+2003/07/23  17:52            23,558 thirdexe.ico
+2020/07/15  08:55             1,699 thirdexe.rc
+2022/07/28  10:01            95,306 thirdexe.vcproj
+2022/10/25  15:18            18,265 thirdexe.vcproj.S.Administrator.user
+2022/03/16  08:53    <DIR>          x64
+              15 ¸öÎÄ¼þ        918estset
+ALLUSERSPROFILE=C:\ProgramData
+APPDATA=C:\Users\Administrator\AppData\Roaming
+CommonProgramFiles=C:\Program Files\Common Files
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+CommonProgramW6432=C:\Program Files\Common Files
+COMPLUS_NoGuiFromShim=1
+COMPUTERNAME=S
+ComSpec=C:\Windows\system32\cmd.exe
+DriverData=C:\Windows\System32\Drivers\DriverData
+FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+FPS_BROWSER_USER_PROFILE_STRING=Default
+frameworkdir=c:\windows\microsoft.net\framework\
+frameworksdkdir=
+HOMEDRIVE=C:
+HOMEPATH=\Users\Administrator
+include=D:\Program Files (x86)\Microsoft Visual Studio\VC98\atl\include;D:\Program Files (x86)\Microsoft Visual Studio\VC98\mfc\include;D:\Program Files (x86)\Microsoft Visual Studio\VC98\include
+lib=D:\Program Files (x86)\Microsoft Visual Studio\VC98\mfc\lib;D:\Program Files (x86)\Microsoft Visual Studio\VC98\lib
+LOCALAPPDATA=C:\Users\Administrator\AppData\Local
+LOGONSERVER=\\S
+MSDevDir=D:\Program Files (x86)\Microsoft Visual Studio\Common\MSDev98
+MsVCDir=d:\program files (x86)\microsoft visual studio 9.0\
+NUMBER_OF_PROCESSORS=64
+OneDrive=C:\Users\Administrator\OneDrive
+OS=Windows_NT
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PROCESSOR_ARCHITECTURE=AMD64
+PROCESSOR_IDENTIFIER=AMD64 Family 23 Model 49 Stepping 0, AuthenticAMD
+PROCESSOR_LEVEL=23
+PROCESSOR_REVISION=3100
+ProgramData=C:\ProgramData
+ProgramFiles=C:\Program Files
+ProgramFiles(x86)=C:\Program Files (x86)
+ProgramW6432=C:\Program Files
+PROMPT=$P$G
+PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC=C:\Users\Public
+SESSIONNAME=Console
+SystemDrive=C:
+SystemRoot=C:\Windows
+TEMP=C:\Users\Administrator\AppData\Local\Temp
+TMP=C:\Users\Administrator\AppData\Local\Temp
+USERDOMAIN=S
+USERDOMAIN_ROAMINGPROFILE=S
+USERNAME=Administrator
+USERPROFILE=C:\Users\Administrator
+VCInstallDir=d:\program files (x86)\microsoft visual studio 9.0\vc\
+VisualStudioDir=C:\Users\Administrator\Documents\Visual Studio 2008
+VS110COMNTOOLS=C:\Program Files (x86)\Microsoft Visual Studio 11.0\Common7\Tools\
+VS120COMNTOOLS=D:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\Tools\
+VS140COMNTOOLS=D:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\
+VS90COMNTOOLS=D:\Program Files (x86)\Microsoft Visual Studio 9.0\Common7\Tools\
+VSInstallDir=d:\program files (x86)\microsoft visual studio 9.0\
+WecVersionForRosebud.5214=2
+windir=C:\Windows
+_ACP_ATLPROV=D:\Program Files (x86)\Microsoft Visual Studio 9.0\VC\Bin\ATLProv.dll
+_ACP_INCLUDE=D:\Program Files (x86)\Microsoft Visual Studio 9.0\VC\include;D:\Program Files (x86)\Microsoft Visual Studio 9.0\VC\atlmfc\include;C:\Program Files\Microsoft SDKs\Windows\v6.0A\\include;C:\Program Files\Microsoft SDKs\Windows\v6.0A\include;d:\Program Files (x86)\Codejock Software\MFC\Xtreme ToolkitPro v19.1.0\Source;D:\tools\DXSDK\Include;D:\tools\Microsoft SDK\include;D:\tools\WINDDK\3790\inc\wnet;D:\Program Files (x86)\Microsoft Visual Studio 9.0\VC\DIA SDK\include;D:\Program Files (x86)\Microsoft Visual Studio 9.0\DIA SDK\include;C:\Program Files (x86)\Windows Kits\8.1\Include\um;C:\Program Files (x86)\Windows Phone Kits\8.1\Include;C:\Program Files (x86)\VMware\VMware VIX;D:\tools\WINDDK\3790\inc\ddk\wnet;D:\tools\reactos-master\sdk\lib\pseh\include;D:\tools\reactos-master\sdk\include\ndk;D:\tools\reactos-master\sdk\include\psdk;D:\tools\reactos-master\sdk\include;D:\tools\reactos-master\sdk\include\reactos;D:\tools\reactos-master\sdk\lib\conutils;D:\tools\reactos-master\sdk\lib;D:\tools\reactos-master\sdk\include\reactos\drivers\ndisuio
+_ACP_LIB=D:\Program Files (x86)\Microsoft Visual Studio 9.0\VC\lib\amd64;D:\Program Files (x86)\Microsoft Visual Studio 9.0\VC\atlmfc\lib\amd64;C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\x64;d:\Program Files (x86)\Codejock Software\MFC\Xtreme ToolkitPro v19.1.0\Lib\vc90x64;D:\tools\DXSDK\Lib;D:\tools\Microsoft SDK\Lib;D:\Program Files (x86)\Microsoft Visual Studio 9.0\VC\DIA SDK\lib;D:\Program Files (x86)\Microsoft Visual Studio 9.0\DIA SD_ACP_PATH=D:\Program Files (x86)\Microsoft Visual Studio 9.0\VC\bin\x86_amd64;D:\Program Files (x86)\Microsoft Visual Studio 9.0\VC\bin;C:\Program Files\Microsoft SDKs\Windows\v6.0A\\bin;D:\Program Files (x86)\Microsoft Visual Studio 9.0\Common7\Tools\bin;D:\Program Files (x86)\Microsoft Visual Studio 9.0\Common7\tools;D:\Program Files (x86)\Microsoft Visual Studio 9.0\Common7\ide;C:\Program Files (x86)\HTML Help Workshop;C:\Program Files\Microsoft SDKs\Windows\v6.0A\bin;C:\Program Files\Microsoft SDKs\Windows\v6.0A\lib\win64;C:\Windows\Microsoft.NET\Framework\v2.0.50727;D:\Program Files (x86)\Microsoft Visual Studio 9.0\Team Tools\Static Analysis Tools\FxCop\;d:\Program Files (x86)\Codejock Software\MFC\Xtreme ToolkitPro v19.1.0\Bin\vc140;d:\Program Files (x86)\Codejock Software\MFC\Xtreme ToolkitPro v19.1.0\Bin\vc120;d:\Program Files (x86)\Codejock Software\MFC\Xtreme ToolkitPro v19.1.0\Bin\vc90;d:\Program Files (x86)\Codejock Software\MFC\Xtreme ToolkitPro v19.1.0\Bin\vc60;D:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Microsoft SQL Server\90\Tools\binn\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SDKs\TypeScript\1.0\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Users\Administrator\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;D:\Program Files\TortoiseSVN\bin;C:\Program Files\dotnet\;c:\mingw\bin;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Git\cmd;C:\Users\Administrator\AppData\Local\Programs\Python\Python35\Scripts\;C:\Users\Administrator\AppData\Local\Programs\Python\Python35\;D:\Program Files (x86)\Microsoft Visual Studio\Common\Tools\WinNT;D:\Program Files (x86)\Microsoft Visual Studio\Common\MSDev98\Bin;D:\Program Files (x86)\Microsoft Visual Studio\Common\Tools;D:\Program Files (x86)\Microsoft Visual Studio\VC98\bin;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Users\Administrator\.dotnet\tools;C:\Program Files (x86)\SSH Communications Security\SSH Secure Shell;d:\Users\Administrator\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files (x86)\IDM Computer Solutions\UltraCompare\;D:\tools\WINDDK\3790\bin;D:\tools\Microsoft SDK\Bin;D:\tools\DXSDK\Bin;C:\Program Files (x86)\VMware\VMware VIX
+PATH=d:\Program Files (x86)\Codejock Software\MFC\Xtreme ToolkitPro v19.1.0\Bin\vc140;d:\Program Files (x86)\Codejock Software\MFC\Xtreme ToolkitPro v19.1.0\Bin\vc120;d:\Program Files (x86)\Codejock Software\MFC\Xtreme ToolkitPro v19.1.0\Bin\vc90;d:\Program Files (x86)\Codejock Software\MFC\Xtreme ToolkitPro v19.1.0\Bin\vc60;D:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Microsoft SQL Server\90\Tools\binn\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SDKs\TypeScript\1.0\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Users\Administrator\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;D:\Program Files\TortoiseSVN\bin;C:\Program Files\dotnet\;c:\mingw\bin;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Git\cmd;C:\Users\Administrator\AppData\Local\Programs\Python\Python35\Scripts\;C:\Users\Administrator\AppData\Local\Programs\Python\Python35\;D:\Program Files (x86)\Microsoft Visual Studio\Common\Tools\WinNT;D:\Program Files (x86)\Microsoft Visual Studio\Common\MSDev98\Bin;D:\Program Files (x86)\Microsoft Visual Studio\Common\Tools;D:\Program Files (x86)\Microsoft Visual Studio\VC98\bin;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Users\Administrator\.dotnet\tools;C:\Program Files (x86)\SSH Communications Security\SSH Secure Shell;d:\Users\Administrator\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files (x86)\IDM path
+PATH=d:\Program Files (x86)\Codejock Software\MFC\Xtreme ToolkitPro v19.1.0\Bin\vc140;d:\Program Files (x86)\Codejock Software\MFC\Xtreme ToolkitPro v19.1.0\Bin\vc120;d:\Program Files (x86)\Codejock Software\MFC\Xtreme ToolkitPro v19.1.0\Bin\vc90;d:\Program Files (x86)\Codejock Software\MFC\Xtreme ToolkitPro v19.1.0\Bin\vc60;D:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Microsoft SQL Server\90\Tools\binn\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SDKs\TypeScript\1.0\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Users\Administrator\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;D:\Program Files\TortoiseSVN\bin;C:\Program Files\dotnet\;c:\mingw\bin;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Git\cmd;C:\Users\Administrator\AppData\Local\Programs\Python\Python35\Scripts\;C:\Users\Administrator\AppData\Local\Programs\Python\Python35\;D:\Program Files (x86)\Microsoft Visual Studio\Common\Tools\WinNT;D:\Program Files (x86)\Microsoft Visual Studio\Common\MSDev98\Bin;D:\Program Files (x86)\Microsoft Visual Studio\Common\Tools;D:\Program Files (x86)\Microsoft Visual Studio\VC98\bin;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Users\Administrator\.dotnet\tools;C:\Program Files (x86)\SSH Communications Security\SSH Secure Shell;d:\Users\Administrator\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files (x86)\IDM Computer Solutions\UltraCompare\;D:Microsoft Windows [°æ±Microsoft Windows [°æ±Windows PowerShell
+°æÈ¨ËùÓÐver : ÎÞ·¨½«¡°ver¡±ÏîÊ¶±ðÎª cmdlet¡¢º¯Êý¡¢½Å±¾ÎÄ¼þ»ò¿ÉÔËÐÐ³ÌÐòµÄÃû³Æ¡£Çë¼ì²éÃû³ÆµÄÆ´Ð´£¬Èç¹û°üÀ¨Â·¾¶£¬ÇëÈ·±£Â·¾¶ÕýÈ·£¬È»ºóÔÙ
+ÊÔÒ»´Î¡£
+ËùÔÚÎ»ÖÃ ÐÐ:1 ×Ö·û: 1
++ ver
++ ~~~
+    + CategoryInfo          : ObjectNotFound: (ver:String) [], CommandNotFoundExceptionMicrosoft Windows [°æ±Microsoft Windows [°æ±Microsoft Windows [°æ±set
+ALLUSERSPROFILE=C:\ProgramData
+APPDATA=C:\Users\Administrator\AppData\Roaming
+CommonProgramFiles=C:\Program Files\Common Files
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+CommonProgramW6432=C:\Program Files\Common Files
+COMPLUS_NoGuiFromShim=1
+COMPUTERNAME=S
+ComSpec=C:\Windows\system32\cmd.exe
+DriverData=C:\Windows\System32\Drivers\DriverData
+FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+FPS_BROWSER_USER_PROFILE_STRING=Default
+frameworkdir=c:\windows\microsoft.net\framework\
+frameworksdkdir=
+HOMEDRIVE=C:
+HOMEPATH=\Users\Administrator
+include=D:\Program Files (x86)\Microsoft Visual Studio\VC98\atl\include;D:\Program Files (x86)\Microsoft Visual Studio\VC98\mfc\include;D:\Program Files (x86)\Microsoft Visual Studio\VC98\include
+lib=D:\Program Files (x86)\Microsoft Visual Studio\VC98\mfc\lib;D:\Program Files (x86)\Microsoft Visual Studio\VC98\lib
+LOCALAPPDATA=C:\Users\Administrator\AppData\Local
+LOGONSERVER=\\S
+MSDevDir=D:\Program Files (x86)\Microsoft Visual Studio\Common\MSDev98
+MsVCDir=d:\program files (x86)\microsoft visual studio 9.0\
+NUMBER_OF_PROCESSORS=64
+OneDrive=C:\Users\Administrator\OneDrive
+OS=Windows_NT
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PROCESSOR_ARCHITECTURE=AMD64
+PROCESSOR_IDENTIFIER=AMD64 Family 23 Model 49 Stepping 0, AuthenticAMD
+PROCESSOR_LEVEL=23
+PROCESSOR_REVISION=3100
+ProgramData=C:\ProgramData
+ProgramFiles=C:\Program Files
+ProgramFiles(x86)=C:\Program Files (x86)
+ProgramW6432=C:\Program Files
+PROMPT=$P$G
+PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC=C:\Users\Public
+SESSIONNAME=Console
+SystemDrive=C:
+SystemRoot=C:\Windows
+TEMP=C:\Users\Administrator\AppData\Local\Temp
+TMP=C:\Users\Administrator\AppData\Local\Temp
+USERDOMAIN=S
+USERDOMAIN_ROAMINGPROFILE=S
+USERNAME=Administrator
+USERPROFILE=C:\Users\Administrator
+VCInstallDir=d:\program files (x86)\microsoft visual studio 9.0\vc\
+VisualStudioDir=C:\Users\Administrator\Documents\Visual Studio 2008
+VS110COMNTOOLS=C:\Program Files (x86)\Microsoft Visual Studio 11.0\Common7\Tools\
+VS120COMNTOOLS=D:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\Tools\
+VS140COMNTOOLS=D:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\
+VS90COMNTOOLS=D:\Program Files (x86)\Microsoft Visual Studio 9.0\Common7\Tools\
+VSInstallDir=d:\program files (x86)\microsoft visual studio 9.0\
+WecVersionForRosebud.3374=2
+windir=C:\Windows
+_ACP_ATLPROV=D:\Program Files (x86)\Microsoft Visual Studio 9.0\VC\Bin\ATLProv.dll
+_ACP_INCLUDE=D:\Program Files (x86)\Microsoft Visual Studio 9.0\VC\include;D:\Program Files (x86)\Microsoft Visual Studio 9.0\VC\atlmfc\include;C:\Program Files\Microsoft SDKs\Windows\v6.0A\\include;C:\Program Files\Microsoft SDKs\Windows\v6.0A\include;d:\Program Files (x86)\Codejock Software\MFC\Xtreme ToolkitPro v19.1.0\Source;D:\tools\DXSDK\Include;D:\tools\Microsoft SDK\include;D:\tools\WINDDK\3790\inc\wnet;D:\Program Files (x86)\Microsoft Visual Studio 9.0\VC\DIA SDK\include;D:\Program Files (x86)\Microsoft Visual Studio 9.0\DIA SDK\include;C:\Program Files (x86)\Windows Kits\8.1\Include\um;C:\Program Files (x86)\Windows Phone Kits\8.1\Include;C:\Program Files (x86)\VMware\VMware VIX;D:\tools\WINDDK\3790\inc\ddk\wnet;D:\tools\reactos-master\sdk\lib\pseh\include;D:\tools\reactos-master\sdk\include\ndk;D:\tools\reactos-master\sdk\include\psdk;D:\tools\reactos-master\sdk\include;D:\tools\reactos-master\sdk\include\reactos;D:\tools\reactos-master\sdk\lib\conutils;D:\tools\reactos-master\sdk\lib;D:\tools\reactos-master\sdk\include\reactos\drivers\ndisuio
+_ACP_LIB=D:\Program Files (x86)\Microsoft Visual Studio 9.0\VC\lib\amd64;D:\Program Files (x86)\Microsoft Visual Studio 9.0\VC\atlmfc\lib\amd64;C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\x64;d:\Program Files (x86)\Codejock Software\MFC\Xtreme ToolkitPro v19.1.0\Lib\vc90x64;D:\tools\DXSDK\Lib;D:\tools\Microsoft SDK\Lib;D:\Program Files (x86)\Microsoft Visual Studio 9.0\VC\DIA SDK\lib;D:\Program Files (x86)\Microsoft Visual Studio 9.0\DIA SD_ACP_PATH=D:\Program Files (x86)\Microsoft Visual Studio 9.0\VC\bin\x86_amd64;D:\Program Files (x86)\Microsoft Visual Studio 9.0\VC\bin;C:\Program Files\Microsoft SDKs\Windows\v6.0A\\bin;D:\Program Files (x86)\Microsoft Visual Studio 9.0\Common7\Tools\bin;D:\Program Files (x86)\Microsoft Visual Studio 9.0\Common7\tools;D:\Program Files (x86)\Microsoft Visual Studio 9.0\Common7\ide;C:\Program Files (x86)\HTML Help Workshop;C:\Program Files\Microsoft SDKs\Windows\v6.0A\bin;C:\Program Files\Microsoft SDKs\Windows\v6.0A\lib\win64;C:\Windows\Microsoft.NET\Framework\v2.0.50727;D:\Program Files (x86)\Microsoft Visual Studio 9.0\Team Tools\Static Analysis Tools\FxCop\;d:\Program Files (x86)\Codejock Software\MFC\Xtreme ToolkitPro v19.1.0\Bin\vc140;d:\Program Files (x86)\Codejock Software\MFC\Xtreme ToolkitPro v19.1.0\Bin\vc120;d:\Program Files (x86)\Codejock Software\MFC\Xtreme ToolkitPro v19.1.0\Bin\vc90;d:\Program Files (x86)\Codejock Software\MFC\Xtreme ToolkitPro v19.1.0\Bin\vc60;D:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Microsoft SQL Server\90\Tools\binn\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SDKs\TypeScript\1.0\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Users\Administrator\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;D:\Program Files\TortoiseSVN\bin;C:\Program Files\dotnet\;c:\mingw\bin;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Git\cmd;C:\Users\Administrator\AppData\Local\Programs\Python\Python35\Scripts\;C:\Users\Administrator\AppData\Local\Programs\Python\Python35\;D:\Program Files (x86)\Microsoft Visual Studio\Common\Tools\WinNT;D:\Program Files (x86)\Microsoft Visual Studio\Common\MSDev98\Bin;D:\Program Files (x86)\Microsoft Visual Studio\Common\Tools;D:\Program Files (x86)\Microsoft Visual Studio\VC98\bin;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Users\Administrator\.dotnet\tools;C:\Program Files (x86)\SSH Communications Security\SSH Secure Shell;d:\Users\Administrator\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files (x86)\IDM Computer Solutions\UltraCompare\;D:\tools\WINDDK\3790\bin;D:\tools\Microsoft SDK\Bin;D:\tools\DXSDK\Bin;C:\Program Files (x86)\VMware\VMware VIX
+PATH=d:\Program Files (x86)\Codejock Software\MFC\Xtreme ToolkitPro v19.1.0\Bin\vc140;d:\Program Files (x86)\Codejock Software\MFC\Xtreme ToolkitPro v19.1.0\Bin\vc120;d:\Program Files (x86)\Codejock Software\MFC\Xtreme ToolkitPro v19.1.0\Bin\vc90;d:\Program Files (x86)\Codejock Software\MFC\Xtreme ToolkitPro v19.1.0\Bin\vc60;D:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Microsoft SQL Server\90\Tools\binn\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SDKs\TypeScript\1.0\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Users\Administrator\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;D:\Program Files\TortoiseSVN\bin;C:\Program Files\dotnet\;c:\mingw\bin;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Git\cmd;C:\Users\Administrator\AppData\Local\Programs\Python\Python35\Scripts\;C:\Users\Administrator\AppData\Local\Programs\Python\Python35\;D:\Program Files (x86)\Microsoft Visual Studio\Common\Tools\WinNT;D:\Program Files (x86)\Microsoft Visual Studio\Common\MSDev98\Bin;D:\Program Files (x86)\Microsoft Visual Studio\Common\Tools;D:\Program Files (x86)\Microsoft Visual Studio\VC98\bin;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Users\Administrator\.dotnet\tools;C:\Program Files (x86)\SSH Communications Security\SSH Secure Shell;d:\Users\Administrator\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files (x86)\IDM path
+PATH=d:\Program Files (x86)\Codejock Software\MFC\Xtreme ToolkitPro v19.1.0\Bin\vc140;d:\Program Files (x86)\Codejock Software\MFC\Xtreme ToolkitPro v19.1.0\Bin\vc120;d:\Program Files (x86)\Codejock Software\MFC\Xtreme ToolkitPro v19.1.0\Bin\vc90;d:\Program Files (x86)\Codejock Software\MFC\Xtreme ToolkitPro v19.1.0\Bin\vc60;D:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Microsoft SQL Server\90\Tools\binn\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SDKs\TypeScript\1.0\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Users\Administrator\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;D:\Program Files\TortoiseSVN\bin;C:\Program Files\dotnet\;c:\mingw\bin;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Git\cmd;C:\Users\Administrator\AppData\Local\Programs\Python\Python35\Scripts\;C:\Users\Administrator\AppData\Local\Programs\Python\Python35\;D:\Program Files (x86)\Microsoft Visual Studio\Common\Tools\WinNT;D:\Program Files (x86)\Microsoft Visual Studio\Common\MSDev98\Bin;D:\Program Files (x86)\Microsoft Visual Studio\Common\Tools;D:\Program Files (x86)\Microsoft Visual Studio\VC98\bin;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Users\Administrator\.dotnet\tools;C:\Program Files (x86)\SSH Communications Security\SSH Secure Shell;d:\Users\Administrator\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files (x86)\IDM Computer Solutions\UltraCompare\;D:Microsoft Windows [°æ±Microsoft Windows [°æ±¾ 10.0.19044.2130]
+(c) Microsoft Corporation¡£±£ÁôËùÓÐÈ¨Àû¡£
+
+D:\zc\zmm_http_transfer_v3.3_ma\zmm_http_transfer_v3.3_ma\zmm_http_dll>ver
+
+Microsoft Windows [°æ±¾ 10.0.19044.2130]
+
+D:\zc\zmm_http_transfer_v3.3_ma\zmm_http_transfer_v3.3_ma\zmm_http_dll>
